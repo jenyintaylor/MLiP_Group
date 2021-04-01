@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 data/
 *.pdf
+*.zip
+.DS_Store
